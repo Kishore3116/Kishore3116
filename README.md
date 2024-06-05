@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me skishore3114@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: kicha
 - ⚡ Fun fact: 😵im lazzy 
 
 <!---
